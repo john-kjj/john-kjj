@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 💬 Langauges & Frameworks
-- Python (Scripting, Web Applications, Machine Learning)
+- Python (Scripting, Web Applications, API Development, Machine Learning)
 - JavaScript (Frontend)
 
 <!--
