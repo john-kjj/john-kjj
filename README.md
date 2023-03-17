@@ -2,7 +2,7 @@
 
 #### 💬 Languages & Frameworks
 - Python (Scripting, Web Applications, API Development, Machine Learning)
-- JavaScript (Frontend)
+- JavaScript/JQuery (Frontend)
 
 <!--
 **john-kjj/john-kjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
